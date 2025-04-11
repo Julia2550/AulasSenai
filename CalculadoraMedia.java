@@ -1,4 +1,4 @@
-package AulaJava;
+package meuProjeto.aluno;
  import java.util.Scanner;
 public class CalculadoraMedia {
 	public static void main (String[] args) {
